@@ -43,10 +43,10 @@ class RecipesListAdapter(val handler: RecipeHandler) : RecyclerView.Adapter<Reci
                 val results = FilterResults()
                 val values = ArrayList<Recipe>()
                 if (charSequence.isEmpty()) {
-                    results.values = allRecipes
+                    values.addAll(allRecipes)
                 } else {
                     allRecipes.forEach {
-                        if (it.title.contains(charSequence) || it.instructions.contains(charSequence))
+                        if (it.title.toLowerCase().contains(charSequence.toString().toLowerCase()))
                             values.add(it)
                     }
                 }
