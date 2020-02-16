@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_activity_margin">8dp</dimen>
+    <dimen name="login_activity_ems">10</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="login_logo_padding">40dp</dimen>
+    <dimen name="paddingStartStop">22dp</dimen>
+    <dimen name="paddingBtnObservations">16dp</dimen>
+    <dimen name="dialogTextSize">16sp</dimen>
+    <dimen name="inspection_frag_header_text">18sp</dimen>
+    <dimen name="padding_videos_qty">5dp</dimen>
+    <dimen name="padding_videos_title">15dp</dimen>
+    <dimen name="padding_videos_title_top_bottom">5dp</dimen>
+    <dimen name="multimedia_buttons_width">58dp</dimen>
+    <dimen name="multimedia_buttons_height">58dp</dimen>
+    <dimen name="multimedia_embedded_buttons_height">45dp</dimen>
+    <dimen name="paddingDeleteSync">5dp</dimen>
+    <dimen name="pause_start_buttons_height">48dp</dimen>
+    <dimen name="pause_start_buttons_width">48dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="multimedia_tabs_height">70dp</dimen>
+
+
+    <dimen name="default_header_height">100dp</dimen>
+    <dimen name="spacing_15">15dp</dimen>
+    <dimen name="spacing">16dp</dimen>
+    <dimen name="spacing_half">8dp</dimen>
+    <dimen name="spacing_double">32dp</dimen>
+
+
+</resources>
